@@ -26,7 +26,7 @@ int main()
     */
 
     int num1 = 2;
-    int num2 = 3;
+    int num2 = 13;
 
     num1 = num1 + num2; // 2 + 3 = 5
     num2 = num1 - num2; // 5 - 3 = 2
